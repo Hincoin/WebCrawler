@@ -1,8 +1,8 @@
 import requests
 from BeautifulSoup import BeautifulSoup as bs
 
-url = 'coopergeneral.com'
-r = requests.get('http://coopergeneral.com/wireless')
+url = ''
+r = requests.get(url)
 
 soup = bs(r.content)
 

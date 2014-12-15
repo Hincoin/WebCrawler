@@ -2,7 +2,7 @@ import urlparse
 import urllib
 from BeautifulSoup import BeautifulSoup
 
-url = 'http://tracfone.com/'
+url = ''
 
 urls = [url]
 
